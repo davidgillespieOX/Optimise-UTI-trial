@@ -14,3 +14,5 @@ Process to run simulations outlined below:
 3. Run results for Table 2 from 2018 paper ("Results for different scenarios")
 4. Run results from Table 2 of 2020 paper ("4b. Boostrap CI")
 5. Run Figure 4 from 2020 paper ("Figure 4 - Analysis")
+
+Note that file names have been altered to assist with clarity of sub-trial and ordering.
